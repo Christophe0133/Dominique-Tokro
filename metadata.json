@@ -1,0 +1,5 @@
+{
+  "name": "Mars Colony Sim",
+  "description": "Un jeu de simulation de colonie spatiale. Gérez vos ressources et survivez sur la planète rouge.",
+  "requestFramePermissions": []
+}
